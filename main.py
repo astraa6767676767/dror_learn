@@ -1,2 +1,2 @@
 print("arieli")
-print("ofri")
+print("ofri lives in ramla")
